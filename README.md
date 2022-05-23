@@ -15,5 +15,5 @@ Images: https://source.unsplash.com/random
 
 <h2>Lessons Learned:</h2>
 
-As I noted above, this was one of the first API projects I completed. I wanted to challenge myself and use two different APIs instead of just one. This was a great learning experience for me as there was quite a bit of troublshooting and googling involved.  
+As I noted above, this was one of the first API projects I completed. I wanted to challenge myself and use two different APIs instead of just one. This was a great learning experience for me as there was quite a bit of troubleshooting and googling involved.  
 
