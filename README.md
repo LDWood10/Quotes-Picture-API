@@ -1,6 +1,8 @@
 <h1># Quotes-Picture-API</h1>
 
-
+<a>
+    <img src="https://github.com/LDWood10/LDWood10/blob/main/quoteapi.gif" width="100%" alt="Rigley2-'FlappyBug'"/>
+</a>
 
 <h2>How It's Made:</h2>
 
