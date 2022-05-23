@@ -10,6 +10,7 @@ One of my first API projects. I used two different APIs, one that generates a ra
 
 <h4>APIs that were used</h4>
 Quotes:https://pprathameshmore.github.io/QuoteGarden/
+
 Images: https://source.unsplash.com/random
 
 <h2>Lessons Learned:</h2>
